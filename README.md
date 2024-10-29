@@ -5,6 +5,7 @@ The dataset used in this analysis includes 1000 rows and 21 columns with informa
 ## Data Cleaning and Preparation
 **Dropped Columns**:
 - Removed the *Demographics* column as it contained a significant amount of missing data and was not relevant to our analysis.
+
 **Handling Null Values**:
 - **English Column**: Filled null values in the *English* with corresponding values from the *Synonyms* column.
 - **Synonyms Column**: Filled null values in the *Synonyms* with corresponding values from the *English* column.
