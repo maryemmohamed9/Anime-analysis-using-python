@@ -10,7 +10,7 @@ The dataset used in this analysis includes 1000 rows and 21 columns with informa
 - **English Column**: Filled null values in the *English* with corresponding values from the *Synonyms* column.
 - **Synonyms Column**: Filled null values in the *Synonyms* with corresponding values from the *English* column.
 - **Japanese Column**: For remaining null values in both the *English* and *Synonyms* columns, filled them with corresponding values from *Japanese* column.
-- **Premiered and Broadcast Columns**: Filled null values in the *Premiered* and *Broadcast* columns with corresponding values from the *Start_Aired* column.
+- **Premiered Column**: Filled null values in the *Premiered* column with corresponding values from the *Start_Aired* column.
   
 **Date Parsing**
 - Handled date parsing issues in the *Aired* column to extract *Start_Aired* and *End_Aired*.
