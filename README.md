@@ -20,6 +20,7 @@ The dataset used in this analysis includes 1000 rows and 21 columns with informa
 - Ensured that numerical Colums (like *Score* and *Members*) were of the correct data type for analysis.
   
 ## Analysis and Visualizations
+
 **The analysis includes**:
 - Top 10 anime by popularity visualized with a bar plot.
 - Distribution of anime scores visualized with a box plot.
@@ -28,9 +29,11 @@ The dataset used in this analysis includes 1000 rows and 21 columns with informa
 - Top 5 genres visualized with a bar plot.
 - Top 5 studios visualized with a bar plot.
 - Top 4 Sources visualized with a bie plot.
+  
 **Technologies Used**:
 - Python
 - Pandas
 - Matplotlib
+  
 **Contributing**:
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
