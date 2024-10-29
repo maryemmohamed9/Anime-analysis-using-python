@@ -30,10 +30,10 @@ The dataset used in this analysis includes 1000 rows and 21 columns with informa
 - Top 5 studios visualized with a bar plot.
 - Top 4 Sources visualized with a bie plot.
   
-**Technologies Used**:
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib
   
-**Contributing**:
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
